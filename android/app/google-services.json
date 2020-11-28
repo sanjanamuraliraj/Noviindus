@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859664828093",
+    "firebase_url": "https://noviindus-firebase.firebaseio.com",
+    "project_id": "noviindus-firebase",
+    "storage_bucket": "noviindus-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859664828093:android:c66b9d79e28fea942819d4",
+        "android_client_info": {
+          "package_name": "com.sanjana.noviindus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859664828093-bf2k8hgl38fe5udm5npk0nt56rlm4t7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyaCG90m2KHPZuU2ZmU1EoWu8WFbsH5hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859664828093-bf2k8hgl38fe5udm5npk0nt56rlm4t7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

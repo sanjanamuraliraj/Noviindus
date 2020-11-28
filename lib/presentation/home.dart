@@ -1,6 +1,10 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:noviindus/presentation/goldcard.dart';
+import 'package:noviindus/presentation/platinumcard.dart';
+import 'package:noviindus/presentation/silvercard.dart';
+
+import 'diamondcard.dart';
 
 class HomePage extends StatelessWidget {
   GlobalKey _globalKey = GlobalKey();
@@ -63,9 +67,9 @@ class HomePage extends StatelessWidget {
                           child: TabBarView(
                             children: [
                               CategoryCard(),
-                              CategoryCard(),
-                              CategoryCard(),
-                              CategoryCard(),
+                              DiamondCard(),
+                              PlatinumCard(),
+                              SilverCard(),
                             ],
                           ),
                         ),
